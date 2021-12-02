@@ -2,7 +2,9 @@
 
 Destinado para compartilhar alguns conhecimentos, enquanto estou praticando HTML e CSS para a estruturação e estilização de páginas.<br />
 
-## Projetos
+## 📚 Projetos
+
+Aqui estão alguns exemplos de páginas que desenvolvi durante estas práticas.
 
 ### Starbucks
 
